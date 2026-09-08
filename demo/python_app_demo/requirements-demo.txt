@@ -1,0 +1,2 @@
+# Demo-only dependency file used by issue #002.
+requests==2.28.2
